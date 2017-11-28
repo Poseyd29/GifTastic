@@ -1,0 +1,16 @@
+body {
+
+	width: 1300px;
+	background-color: lightgrey;
+}
+
+
+#container {
+
+	width: 95%;
+}
+
+#add-form {
+
+	float: right;
+}
