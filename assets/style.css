@@ -1,16 +1,33 @@
 body {
-
 	width: 1300px;
 	background-color: lightgrey;
 }
 
-
 #container {
-
 	width: 95%;
 }
 
 #add-form {
-
 	float: right;
+}
+
+.gifButton {
+	padding: 10px;
+	margin: 5px;
+	background-color: green;
+	font-size: 32px;
+	font-weight: bolder;
+	cursor: pointer;
+}
+
+.gifDiv {
+	border: solid 3px blue;
+	float: right;
+	margin: 10px;
+}
+
+.gifImage {
+	height: 300px;
+	width: 300px;
+	cursor: pointer;
 }
